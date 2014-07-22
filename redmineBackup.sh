@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#this is the copy in my simmons branch
+#this was in the simmons branch, but I've made my changes and moved it into the master branch
 
 #this is going to be my redmine backup script
 
